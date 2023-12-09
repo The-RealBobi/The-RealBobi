@@ -26,4 +26,4 @@
 
 # 📫 My social networks
 - [Twitter / X](https://twitter.com/therealbobi_)
-- [Instagram]([https://instagram.com/therealbobi_)
+- [Instagram](https://instagram.com/therealbobi_)
